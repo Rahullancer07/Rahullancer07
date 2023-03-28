@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Enthusiast having proficiency with HTML, CSS, JavaScript and React. Over the past couple of years, I have been learning and practicing software development skills, including creating frontend projects using React and writing code to improve my understanding of data structures and algorithms. I believe that working with you would provide me with an opportunity to demonstrate my skills and abilities and contribute to the growth of your fast-paced organization.
+I am a Frontend Enthusiast having proficiency with HTML, CSS, JavaScript and React. Over the past couple of years, I have been learning and practicing software development skills, including creating frontend projects using React and writing code to improve my understanding of data structures and algorithms. I believe that working with you would provide me with an opportunity to demonstrate my skills and abilities and contribute to the growth of your fast-paced organization.<br><br>Mail  📧 - ydv.rahul3108@gmail.com<br>Phone 📞 - +91-6377607010
 
 
 ## 🌐 Socials:
